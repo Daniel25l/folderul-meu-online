@@ -13,3 +13,12 @@ Status:Passed
 Test Case Numarul 4
 Descriere:Facem o alta modificare pentru test
 Status:Passed
+
+Test Case Numarul 5 
+Descriere:Introducem date valide in Folder
+Status:Passed
+Priority:High
+Pre-conditions:
+-device
+-github
+-browser
