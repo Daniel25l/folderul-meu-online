@@ -1,0 +1,5 @@
+Feature:Urmarire Statut Comanda
+Scenario 1:Utilizatorul vede pagina de urmarire a comenzii
+Given:Utilizatorul se afla pe pagina de comenzi
+When:Utilizatorul da click pe unul din produse
+Then:Utilizatorul vede statutul de progress a comenzii
